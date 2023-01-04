@@ -3,5 +3,5 @@
 > Status do Projeto: Em Desenvolvimento
 
 ```
-Necessario estudo
+node app.js
 ```
